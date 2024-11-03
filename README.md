@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi, my name is Samuel, I am a Computer Science student at UECE and a member of GESAD (Software Engineering and Distributed Systems Group). I also volunteer as the coordinator of GEMP (Programming Marathon Study Group), focused on competitive programming, and I am a volunteer with GABA (Animal Welfare Support Group).</p>
+<p align="left">Hi, my name is Samuel, I am a Computer Science student at <a href="https://www.uece.br/">UECE</a> and a member of <a href="https://gesaduece.com.br/">GESAD</a> (Software Engineering and Distributed Systems Group). I also volunteer as the coordinator of <a href="https://www.instagram.com/gemp_uece_?igsh=MWMxd2p5ZjdzOGd2cQ==">GEMP</a> (Programming Marathon Study Group), focused on competitive programming, and I am a volunteer with <a href="https://www.instagram.com/gabafortal?igsh=ZmJjdnMwaTE3bmI1">GABA</a> (Animal Welfare Support Group).</p>
 
 ###
 
