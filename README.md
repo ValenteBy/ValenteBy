@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022...<br><br>📚 I'm currently learning Cybersecurity, competitive programming, UX/UI design, web development, Unreal, embedded systems, psychology, and basketball.<br> <br>🎯 Goals: To become someone more proactive, to be a better leader, to always keep learning something new and challenging myself, and to also become an amazing programmer.<br><br>🎲 Fun fact: A humanities guy in the field of exact sciences, and when retired, to own a farm.</p>
+<p align="left">✨ Creating bugs since 2022...<br><br>📚 I'm currently learning Cybersecurity, competitive programming, UX/UI design, web development, Unreal, embedded systems, psychology, and basketball.<br> <br>🎯 Goals: To become someone more proactive, to be a better leader, to always keep learning something new and challenging myself, and to also become an amazing programmer.<br><br>🎲 Fun fact: I am humanities guy in the field of exact sciences.</p>
 
 ###
 
@@ -37,9 +37,9 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ValenteBy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ValenteBy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ValenteBy&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ValenteBy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ValenteBy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ValenteBy&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
